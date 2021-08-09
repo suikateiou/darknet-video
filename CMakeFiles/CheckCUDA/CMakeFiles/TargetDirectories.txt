@@ -1,0 +1,2 @@
+/home/zju/czh/darknet_video/CMakeFiles/CheckCUDA/CMakeFiles/rebuild_cache.dir
+/home/zju/czh/darknet_video/CMakeFiles/CheckCUDA/CMakeFiles/edit_cache.dir

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Darknet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\Modules\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uselib">
+				<Option output="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/uselib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/include"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/src"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/3rdparty/stb/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 uselib"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="uselib/fast">
+				<Option output="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/uselib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/include"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/src"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/3rdparty/stb/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 uselib/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="darknet">
+				<Option output="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/darknet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/include"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/src"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/3rdparty/stb/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 darknet"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="darknet/fast">
+				<Option output="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/darknet" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/include"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/src"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/3rdparty/stb/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 darknet/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dark">
+				<Option output="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/libdarknetd.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DLIB_EXPORTS=1"/>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/include"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/src"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/3rdparty/stb/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 dark"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dark/fast">
+				<Option output="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/libdarknetd.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DLIB_EXPORTS=1"/>
+					<Add option="-DUSE_CMAKE_LIBS"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/include"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/src"/>
+					<Add directory="/Users/wangyingrong/Documents/code/darknet_video/3rdparty/stb/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 dark/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/include/darknet.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/include/yolo_v2_class.hpp">
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/activation_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/activation_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/activations.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/activations.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/art.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/avgpool_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/avgpool_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/batchnorm_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/batchnorm_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/blas.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/blas.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/box.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/box.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/captcha.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/cifar.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/classifier.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/classifier.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/coco.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/col2im.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/col2im.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/compare.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/connected_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/connected_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/conv_lstm_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/conv_lstm_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/convolutional_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/convolutional_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/cost_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/cost_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/cpu_gemm.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/crnn_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/crnn_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/crop_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/crop_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/dark_cuda.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/dark_cuda.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/darknet.c">
+			<Option target="darknet"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/darkunistd.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/data.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/data.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/deconvolutional_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/deconvolutional_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/demo.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/demo.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/detection_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/detection_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/detector.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/dice.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/dropout_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/dropout_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/gaussian_yolo_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/gaussian_yolo_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/gemm.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/gemm.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/go.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/gru_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/gru_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/http_stream.cpp">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/http_stream.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/httplib.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/im2col.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/im2col.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/image.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/image.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/image_backup.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/image_opencv.cpp">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/image_opencv.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/list.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/list.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/local_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/local_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/lstm_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/lstm_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/matrix.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/matrix.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/maxpool_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/maxpool_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/network.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/network.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/nightmare.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/normalization_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/normalization_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/option_list.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/option_list.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/parser.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/parser.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/region_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/region_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/reorg_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/reorg_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/reorg_old_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/reorg_old_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/rnn.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/rnn_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/rnn_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/rnn_vid.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/route_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/route_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/sam_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/sam_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/scale_channels_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/scale_channels_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/shortcut_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/shortcut_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/softmax_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/softmax_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/super.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/swag.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/tag.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/tree.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/tree.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/upsample_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/upsample_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/utils.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/utils.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/version.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/voxel.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/writing.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/yolo.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/yolo_console_dll.cpp">
+			<Option target="uselib"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/yolo_layer.c">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/yolo_layer.h">
+			<Option target="darknet"/>
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/yolo_v2_class.cpp">
+			<Option target="dark"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/DarknetConfig.cmake.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/cmake/Modules/FindStb.cmake">
+			<Option virtualFolder="CMake Files\cmake\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/wangyingrong/Documents/code/darknet_video/src/version.h.in">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

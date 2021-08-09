@@ -1,0 +1,10 @@
+/home/zju/czh/darknet_video/CMakeFiles/install.dir
+/home/zju/czh/darknet_video/CMakeFiles/list_install_components.dir
+/home/zju/czh/darknet_video/CMakeFiles/rebuild_cache.dir
+/home/zju/czh/darknet_video/CMakeFiles/edit_cache.dir
+/home/zju/czh/darknet_video/CMakeFiles/install/strip.dir
+/home/zju/czh/darknet_video/CMakeFiles/install/local.dir
+/home/zju/czh/darknet_video/CMakeFiles/darknet.dir
+/home/zju/czh/darknet_video/CMakeFiles/uselib.dir
+/home/zju/czh/darknet_video/CMakeFiles/uselib_track.dir
+/home/zju/czh/darknet_video/CMakeFiles/dark.dir

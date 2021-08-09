@@ -1,0 +1,9 @@
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/install.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/uselib.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/darknet.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/wangyingrong/Documents/code/darknet_video/cmake-build-debug/CMakeFiles/dark.dir
